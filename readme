@@ -1,6 +1,8 @@
-Bonjour .
+git pull
+git add NomFichier ATTENTION NE FAIRE JAMAIS git add * en dehors de src
+git commit -m "message"
+git push
 
-On est les champions!
-TAMERE EN STRING ton pere
 
-hello arzazr
+Conflit:
+git checkout
