@@ -1,9 +1,7 @@
-Bonjour .
-TAMERE EN STRING
+git pull
+git add NomFichier ATTENTION NE FAIRE JAMAIS git add * en dehors de src
+git commit -m "message"
+git push
 
-tg pdz
-
-sg
-s
-g
-sdg
+Conflit:
+git checkout
